@@ -1,5 +1,5 @@
 ### work
-[ <img src="https://aleen42.github.io/badges/src/bmw.svg" style="vertical-align:top;height:28px;margin-right:20px"><strong>Auto-Leebmann GmbH</strong>](http://www.leebmann.de)
+[<strong>Auto-Leebmann GmbH</strong> <img src="https://aleen42.github.io/badges/src/bmw.svg" style="vertical-align:top;height:28px;margin-left:20px">](http://www.leebmann.de)
 
 ---
 ### stack
