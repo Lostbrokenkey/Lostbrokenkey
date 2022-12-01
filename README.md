@@ -38,7 +38,10 @@ journey
 ```mermaid
 journey
     section Databases
-      MySQL: 7: present
+      MySQL: 7: former
+      PostgreSQL: 5: former
+      DynamoDB: 6: former
+      Firestore: 5: former
       MongoDB: 6: present
       IBM-DB/2: 4: present
 
