@@ -13,16 +13,59 @@ Currently I'm working @ Auto Leebmann GmbH on a large e-commerce project.
 Contact informations can be found @ <a href="https://www.schoenberger.be" target="_blank">www.schoenberger.be</a> 
 
 <br />
-
-<p style="text-align: center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=schoenbergerb&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=5&locale=en&theme=blue-green" alt="schoenbergerb" height="139"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schoenbergerb&layout=compact&border_radius=5&theme=blue-green" alt="schoenbergerb" height="139" />
-</p>
-
 <br />
 
+### Languages & Frameworks
+```mermaid
+journey
+    section Languages
+      Java-,Typescript: 7: present
+      PHP: 6: present
+      Python: 4: former
+      Bash: 4: present
+      Java: 4: former
+      Go: 3: former
+
+    section Frameworks
+      NestJS: 7: present
+      NextJS: 5: present
+      Laravel: 6: former
+      Spring: 3: former
+
+```
+
+### Databases & Cloud
+```mermaid
+journey
+    section Databases
+      MySQL: 7: former
+      PostgreSQL: 5: former
+      DynamoDB: 6: former
+      Firestore: 5: former
+      MongoDB: 6: present
+      IBM-DB/2: 4: present
+
+    section Cloud
+      GCP: 5.5: present
+      AWS: 6: present
+      Azure: 2: former
+```
 
 
-
-
-
+### Tools & Stuff
+```mermaid
+journey
+    section Misc
+      Markdown: 7: present
+      Redis: 6: present
+      IT-Security: 4: present
+      Firebase: 6: former
+      docker: 6: present
+      commercetools: 6: present
+      akeneo: 4: present
+      git: 6: present
+      svn: 5: former
+      GraphQL: 6: present
+      RestFUL: 6: present
+      Tailwind: 5: present
+```
