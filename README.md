@@ -14,12 +14,6 @@ Contact informations can be found @ <a href="https://www.schoenberger.be" target
 
 <br />
 
-<p style="text-align: center;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=schoenbergerb&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=5&locale=en&theme=blue-green" alt="schoenbergerb" height="139"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schoenbergerb&layout=compact&border_radius=5&theme=blue-green" alt="schoenbergerb" height="139" />
-</p>
-
-<br />
 
 
 
