@@ -6,9 +6,6 @@
 <p>
 Full-Stack (Web) Developer, skilled in both front-end and back-end web development. I enjoy creating things that live on the internet. Keen to create new and innovative websites and always eager to learn new technologies to enhance my skills.
 </p>
-<p>
-Currently I'm working @ Auto Leebmann GmbH on a large e-commerce project.
-</p>
 
 Contact informations can be found @ <a href="https://www.schoenberger.be" target="_blank">www.schoenberger.be</a> 
 
